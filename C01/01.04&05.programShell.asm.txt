@@ -1,0 +1,2 @@
+ml64 programShell.asm /link /subsystem:console /entry:main
+programShell

@@ -1,3 +1,2 @@
-copied
-built
-run
+ml64 hw64.asm /link /subsystem:console /entry:main
+hw64
