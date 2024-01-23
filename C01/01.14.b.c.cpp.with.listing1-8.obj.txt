@@ -1,0 +1,7 @@
+cl /EHa /Felisting1-8.exe c.cpp listing1-8.obj
+listing1-8
+
+# /EHa Exception Handling "a"
+# /Fe  Name EXE File
+# https://learn.microsoft.com/en-us/cpp/build/reference/eh-exception-handling-model?view=msvc-170
+# https://learn.microsoft.com/en-us/cpp/build/reference/fe-name-exe-file?view=msvc-170

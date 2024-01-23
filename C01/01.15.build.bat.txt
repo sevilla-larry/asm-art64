@@ -1,0 +1,40 @@
+build listing1-8
+listing1-8
+
+
+#
+#Notes:
+#
+# ----------
+#
+# ml64
+#
+# /c		Assembles only.  Does NO linking
+# /Cp		Preserves case of all user identifiers
+# https://learn.microsoft.com/en-us/cpp/assembler/masm/ml-and-ml64-command-line-reference?view=msvc-170
+#
+# ----------
+#
+# common
+#
+# /nologo	Suppress Startup Banner
+# /Zi		Generates CodeView information in object file
+# /Zi		Debug Information
+#
+# https://learn.microsoft.com/en-us/cpp/build/reference/nologo-suppress-startup-banner-c-cpp?view=msvc-170
+#
+# ----------
+#
+# cl
+#
+# /O2		Maximize Speed
+# /utf-8	Set source and execution character sets to UTF-8
+# /EHa		Exception Handling "a"
+# /Fe		Name EXE File
+#
+# https://learn.microsoft.com/en-us/cpp/build/reference/o1-o2-minimize-size-maximize-speed?view=msvc-170
+# https://learn.microsoft.com/en-us/cpp/build/reference/utf-8-set-source-and-executable-character-sets-to-utf-8?view=msvc-170
+# https://learn.microsoft.com/en-us/cpp/build/reference/eh-exception-handling-model?view=msvc-170
+# https://learn.microsoft.com/en-us/cpp/build/reference/fe-name-exe-file?view=msvc-170
+#
+# ----------
