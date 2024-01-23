@@ -1,0 +1,2 @@
+ml64 listing1-4.asm /link /subsystem:console /entry:main
+listing1-4
