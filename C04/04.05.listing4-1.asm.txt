@@ -1,0 +1,2 @@
+ml64 /c listing4-1.asm
+( 4 error msgs )
