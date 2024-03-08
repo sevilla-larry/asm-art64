@@ -1,0 +1,11 @@
+build listing4-2
+listing4-2
+( err msg:
+	Exception occurred during program execution
+	Abnormal program termination.
+)
+
+change 48 to 56
+
+		sub rsp, 56
+		add rsp, 56
